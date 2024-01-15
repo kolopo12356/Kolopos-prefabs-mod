@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<AlphaPrefabs.PrefabCategoryDef>
+	<defName>KO_Category_Kolopo</defName>
+	<label>Kolopos</label>
+	<description>Kolopo made prefabs</description>
+	<priority>8.75</priority>
+	<icon>UI/Categories/KO_Category_Kolopo</icon>
+	<modPrerequisites>		
+	</modPrerequisites>
+</AlphaPrefabs.PrefabCategoryDef>
+</Defs>
