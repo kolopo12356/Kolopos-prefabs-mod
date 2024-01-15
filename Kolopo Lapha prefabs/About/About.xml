@@ -13,5 +13,5 @@
     <downloadUrl>https://github.com/juanosarg/AlphaPrefabs/releases</downloadUrl>
   </li>
 </modDependencies>
-  <description>A collection of prefabs centered around mods that are not supported by the main Alpha Prefabs mod, and also anything else that came to my mind</description>   <!-- enter information describing purpose of mod -->
+  <description>A collection of prefabs mostly focused around mods that are not supported by the main Alpha Prefabs mod, and also anything else that comes to my mind</description>   <!-- enter information describing purpose of mod -->
 </ModMetaData>

@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
+<KCSG.SymbolDef>
+  <defName>Table1x2c_WoodLog_Morbid_East</defName>
+  <thing>Table1x2c</thing>
+  <stuff>WoodLog</stuff>
+  <styleCategory>Morbid</styleCategory>
+  <rotation>East</rotation>
+</KCSG.SymbolDef>
 </Defs>

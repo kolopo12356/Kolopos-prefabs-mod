@@ -2,9 +2,9 @@
 <Defs>
 <AlphaPrefabs.PrefabCategoryDef>
 	<defName>KO_Category_Kolopo</defName>
-	<label>Kolopos</label>
-	<description>Kolopo made prefabs</description>
-	<priority>8.75</priority>
+	<label>Kolopo</label>
+	<description>prefabs made by the man himself</description>
+	<priority>13</priority>
 	<icon>UI/Categories/KO_Category_Kolopo</icon>
 	<modPrerequisites>		
 	</modPrerequisites>

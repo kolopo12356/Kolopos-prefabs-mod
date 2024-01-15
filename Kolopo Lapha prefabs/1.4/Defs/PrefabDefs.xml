@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
 <AlphaPrefabs.PrefabDef>
-	<defName>KO_Test</defName>
+	<defName>KO_Prefab_OldHouse</defName>
 	<label>Smol thing</label>
 	<shortLabel>smol</shortLabel>
-	<description>I swear to god that i did not ...?</description>
-	<priority>3</priority>
+	<description>I swear to god that i did not?</description>
+	<priority>1</priority>
 	<category>AP_Category_Kolopo</category>
-	<detailedImage>UI/Prefabs_Preview/KO_Test_Preview</detailedImage>
-	<layout>KO_Test</layout>
+	<detailedImage>UI/Prefabs_Preview/KO_Prefab_Test_Preview</detailedImage>
+	<layout>Kolopo_OldHouse</layout>
 	<marketvalue>708</marketvalue>
 	<researchPrerequisites>
 		<li>Stonecutting</li>
@@ -17,6 +17,4 @@
 		<li>Electricity</li>
 	</researchPrerequisites>
 </AlphaPrefabs.PrefabDef>
-
-
 </Defs>
